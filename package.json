@@ -1,6 +1,6 @@
 {
   "name": "release-simulation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example release simulation",
   "main": "index.js",
   "scripts": {
